@@ -1,6 +1,6 @@
 # **Industrial-Defect-Detection**
 
-#**1. Purpose:**
+# **1. Purpose:**
 
 The purpose of this project is to detect industrial defects in objects or products using computer vision techniques. By analyzing images or real-time webcam feeds, the system aims to:
 
